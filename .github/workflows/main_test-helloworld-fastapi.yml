@@ -65,4 +65,4 @@ jobs:
         with:
           app-name: 'test-HelloWorld-fastAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B23CBD45A134F72961FAAF428E0C416 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B53C7974F0B4DCC984517163A73F0D8 }}
